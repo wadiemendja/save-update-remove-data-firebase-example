@@ -1,13 +1,13 @@
 //database config
         
           var firebaseConfig = {
-            apiKey: "AIzaSyAcadGJfIrieuf18GPMA5D0UCC-pUYzpAc",
-            authDomain: "tpgl-e744b.firebaseapp.com",
-            databaseURL: "https://tpgl-e744b.firebaseio.com",
-            projectId: "tpgl-e744b",
-            storageBucket: "tpgl-e744b.appspot.com",
-            messagingSenderId: "991270230255",
-            appId: "1:991270230255:web:a1f7d7f0b329d6c3e9a31a"
+            apiKey: "",
+            authDomain: "",
+            databaseURL: "",
+            projectId: "",
+            storageBucket: "",
+            messagingSenderId: "",
+            appId: ""
           };
   
           firebase.initializeApp(firebaseConfig);
